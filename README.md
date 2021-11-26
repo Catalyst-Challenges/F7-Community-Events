@@ -3,7 +3,8 @@ title: F7 - Community Events
 description: How can we increase meaningful participation among the community in the next 6 month?
 Ideascale: https://cardano.ideascale.com/a/campaign-home/26234
 ---
-![2021-11-24 (2)](https://user-images.githubusercontent.com/25156451/143222960-f4889ea5-814e-49a2-8d8a-5a3146520423.png)
+
+![2021-11-26 (2)](https://user-images.githubusercontent.com/25156451/143614223-8ae8f97b-dbf8-4e6e-bbe4-dee15d9dfbaf.png)
 
 # F7 - Community Events
 
